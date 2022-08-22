@@ -1,0 +1,4 @@
+# ingore ALL .jason files
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
